@@ -1,5 +1,5 @@
 # first
-local lib = {}
+# local lib = {}
 
 function lib:CreateWindow()
 	local UI = Instance.new("ScreenGui")
